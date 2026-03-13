@@ -153,7 +153,7 @@ echo -e "use 98838cf1\nexecute -t 10 -o cat /home/tiago/local.txt\nexit" > /tmp/
 sliver-client console --rc /tmp/s.rc
 ```
 
-**local.txt:** `3351527f57f84822df43aced17825518`
+**local.txt:** `3351527f****************************`
 
 ---
 
@@ -227,14 +227,14 @@ done
 **Output:**
 ```
 GOT ROOT: uid=0(toor) gid=0(root) groups=0(root)
-36e60c187949cc6aca572e7833fc1a53
+36e60c18****************************
 ```
 
 **ROOT ACCESS ACHIEVED!**
 
 ### Root Flag
 
-**proof.txt:** `36e60c187949cc6aca572e7833fc1a53`
+**proof.txt:** `36e60c18****************************`
 
 ---
 
@@ -242,8 +242,8 @@ GOT ROOT: uid=0(toor) gid=0(root) groups=0(root)
 
 | Flag Type | Value |
 |-----------|-------|
-| local.txt | `3351527f57f84822df43aced17825518` |
-| proof.txt | `36e60c187949cc6aca572e7833fc1a53` |
+| local.txt | `3351527f****************************` |
+| proof.txt | `36e60c18****************************` |
 
 ---
 
