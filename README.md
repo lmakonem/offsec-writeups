@@ -38,6 +38,7 @@ Personal walkthroughs for Offensive Security Proving Grounds machines and CTF ev
 | [Vegeta1](Play/Linux/Vegeta1.md) | Easy | Web Enum, Steganography, Morse Code, /etc/passwd Privesc |
 | [Election](Play/Linux/Election.md) | Easy | Web Enum, Log File Exposure, SUID Serv-U CVE-2019-12181 |
 | [My-CMSMS](Play/Linux/My-CMSMS.md) | Intermediate | MySQL Weak Creds, CMS Password Reset, UDT RCE, Base64/32 Decode, Sudo Python |
+| [Lampiao](Play/Linux/Lampiao.md) | Easy | Drupalgeddon2 CVE-2018-7600, DirtyCow CVE-2016-5195, Kernel Exploitation |
 
 ### Play - Windows
 *Coming soon*
