@@ -32,14 +32,14 @@ A forensic sweep followed. Application artifacts, and network logs were preserve
 
 ## Progress
 
-- Questions 1-6: Completed
-- Question 7: In Progress
+- Questions 1-7: Completed (7/7)
 
 ## Notes
 
-- Large HAR file may require command-line tools (jq) instead of GUI viewers
-- Writeup available in password-protected PDF (see .passwords)
+- Large HAR file requires command-line tools (jq) due to file size (301 MB)
+- Malware analysis report available as `MALWARE_ANALYSIS_REPORT.pdf`
 
 ---
 
-*Challenge from OffSec Arctic Howl Event*
+*Challenge from OffSec The Gauntlet: Arctic Howl - Expanse Surveyor*
+*Completed*
